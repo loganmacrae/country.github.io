@@ -1,0 +1,31 @@
+﻿{
+    background-color: cornSilk;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: darkGray;
+}
+
+p {
+    color: gray;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+
+.main {
+    color: white;
+}
+
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.test2 {
+    color: forestgreenH
+}
